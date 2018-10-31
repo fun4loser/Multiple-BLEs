@@ -1,4 +1,4 @@
-#Multiple BLE connections.
+# Multiple BLE connections.
 
 This xcode applet will scan for Bluetooth Low Energy devices in your vicinity. There is a way to limit the scan to devices with a certain prefix (prefix name here) if you're developing a bluetooth component yourself.
 
